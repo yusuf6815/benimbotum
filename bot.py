@@ -16,7 +16,7 @@ async def plastik_el_isi(ctx):
         "Plastik kapakları kullanarak mozaik tablo yapabilirsin.",
         "Eski plastik kutulardan küçük saksIlar yapabilirsin.Bunu yapmak için plastik şişenin içine toprak koy sonra çiçek ek.Not:sulamayI unutma",
         "Plastik kaşıkları boyayıp dekoratif çerçeve tasarlayabilirsin."
-        "plastik şişelerden telofon yapabilirsin."
+        "plastik şişelerden telofon yapabilirsin iki şişe gerekli.İlk olarak plastiği altını del ve ip ğeçir aynısını diğer şişede yap "
     ]
     await ctx.send(f"Evde yapabileceğin plastik el işleri:\n- " + "\n- ".join(fikirler))
 
